@@ -1,0 +1,11 @@
+{
+  "name": "limaze-nginx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JSDC-GIS/limaze-nginx.git",
+  "author": "jimmg35 <jim60308@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "ci": "docker build . -t limaze-nginx"
+  }
+}
