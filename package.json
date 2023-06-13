@@ -6,6 +6,6 @@
   "author": "jimmg35 <jim60308@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "ci": "docker build . -t limaze-nginx"
+    "ci": "docker build . -t hnn-nginx"
   }
 }
